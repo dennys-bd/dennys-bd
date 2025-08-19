@@ -1,9 +1,9 @@
 # 💫 About Me:
 💻 Coder & Dancer 🕺
-- Backend oriented
-- Passionate about optimization and performance
-- I'm  into tabletop RPGs and games
-- Full-time dad, which makes my only hobby is sleeping (if I can)
+- Backend-oriented developer  
+- Passionate about optimization and performance  
+- Big fan of tabletop RPGs and games  
+- Full-time dad (which means my real hobby is sleeping—when I get the chance)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennysazevedo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dennys.bd@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dennys_bd)
 
